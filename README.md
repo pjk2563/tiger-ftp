@@ -68,7 +68,9 @@ changed in the client header file.
 The authorized.txt file contains all of the allowed users to connect
 to the tigerS FTP server. The format for the file is:
 
+```
 username password
+```
 
 Two full words, single space between, with every new line being new 
 credentials. tigerS does not support comments in the authorized text 
