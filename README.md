@@ -1,6 +1,9 @@
 # TigerFTP 
 A basic ftp client
 
+## Disclaimer
+Tiger-FTP should **only** be used for learning purposes. It is **not** secure. 
+
 ## Installation
 
 Use make to build both the tigerS server and tigerC client programs.
@@ -131,7 +134,3 @@ directory to the client directory. This should be ./client/
 ```
 
 to demonstrate the functionality of the concurrent threads.
-
- .
-..:
-
